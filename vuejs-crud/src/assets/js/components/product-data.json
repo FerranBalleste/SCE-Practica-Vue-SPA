@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Black coffee",
+        "type": "Coffee",
+        "description": "It's black coffee",
+        "time": "6-9 min",
+        "price": "2.69",
+        "unavailable": []
+    },
+    {
+        "id": 2,
+        "name": "Espresso",
+        "type": "Coffee",
+        "description": "It's an expresso, what else",
+        "time": "6-9 min",
+        "price": "2.20",
+        "unavailable": ["Terrassa"]
+    },
+    {
+        "id": 3,
+        "name": "Latte",
+        "type": "Coffee",
+        "description": "It's a latte",
+        "time": "6-9 min",
+        "price": "2.20",
+        "unavailable": []
+    },
+    {
+        "id": 4,
+        "name": "Nestea",
+        "type": "Iced Tea",
+        "description": "Nestle sucks",
+        "time": "1 min",
+        "price": "1.20",
+        "unavailable": ["Terrassa", "Cambrils", "Manresa"]
+    },
+    {
+        "id": 5,
+        "name": "Coca Cola",
+        "type": "Soft Drink",
+        "description": "Coooooooooooo",
+        "time": "1 min",
+        "price": "1.20",
+        "unavailable": ["Terrassa"]
+    },
+    {
+        "id": 6,
+        "name": "Water",
+        "type": "Beverage",
+        "description": "It's water my friend",
+        "time": "1 min",
+        "price": "0.99",
+        "unavailable": ["Cambrils"]
+    }
+]
